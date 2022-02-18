@@ -2,9 +2,7 @@
 'RCET 0265
 'Spring 22
 'ConvertAndValidate
-'
-
-
+'https://github.com/bogacars/ConvertAndValidate_CB.git
 Option Explicit On
 Option Strict On
 Module ConvertAndValidate
